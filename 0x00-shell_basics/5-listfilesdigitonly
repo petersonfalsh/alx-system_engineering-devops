@@ -1,2 +1,4 @@
 #!/bin/bash
 ls -al id -ug
+#!/bin/bash
+ls -lna
